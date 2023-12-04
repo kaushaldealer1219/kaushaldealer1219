@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @kaushalchaudhary
-- 👀 I’m interested in ...cybersecurity and networking
+- 👀 I’m interested in ...cybersecurity and networking.
 - 🌱 I’m currently learning ...python -- networking
-- i m a student.
-- i am doing computer application.
+- big data--AI/ML
 
 <!---
 kaushaldealer1219/kaushaldealer1219 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
